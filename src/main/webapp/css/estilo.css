@@ -1,0 +1,45 @@
+#pagina {
+    margin-bottom: 100px;
+}
+div.blocos {
+    background-color: #efefef;
+}
+#mensagensChat {
+    height: 480px;
+    overflow-y: scroll;
+}
+#mensagensChat.Logado {
+    height: 395px;
+}
+#listaUsuarios {
+    height: 480px;
+}
+
+#chatInput {
+    height: 60px;
+    display: none;
+    margin-bottom: 25px;
+}
+
+#mensagemEnviar {
+    width: 600px;
+    padding: 6px;
+    margin: 16px;
+}
+
+div.mensagem {
+    padding: 2px;
+    margin-top: 3px;
+}
+div.mensagem span.autorNome, div.usuario > span {
+    padding: 3px;
+    color: orange;
+    font-weight: bold;
+}
+
+
+div.mensagem span.textoMensagem {
+    font-weight: bold;
+    color: blue;
+    padding: 3px;
+}
