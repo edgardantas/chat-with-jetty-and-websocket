@@ -30,7 +30,7 @@
         </div>
         <div class="row">
             <div class="span2">
-                <h3>Usuarios</h3>
+                <h3>Usuários</h3>
                 <div class="blocos" id="listaUsuarios">
 
                 </div>
